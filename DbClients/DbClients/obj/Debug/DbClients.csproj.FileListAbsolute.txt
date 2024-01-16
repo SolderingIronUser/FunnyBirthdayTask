@@ -1,0 +1,12 @@
+C:\Users\konst\source\repos\DbClients\DbClients\bin\Debug\DbClients.exe.config
+C:\Users\konst\source\repos\DbClients\DbClients\bin\Debug\DbClients.exe
+C:\Users\konst\source\repos\DbClients\DbClients\bin\Debug\DbClients.pdb
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.csproj.AssemblyReference.cache
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.Form1.resources
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.Properties.Resources.resources
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.csproj.GenerateResource.cache
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.csproj.CoreCompileInputs.cache
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.exe
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.pdb
+C:\Users\konst\source\repos\DbClients\DbClients\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\konst\source\repos\DbClients\DbClients\obj\Debug\DbClients.csproj.CopyComplete
